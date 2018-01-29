@@ -8,6 +8,7 @@ To Do List (REST API)
 
 * Install Laravel dan Composer
 * Mengubah env.txt menjadi .env
+* Buat database dengan nama ToDoList
 * Import ToDoList_2018-01-29.sql ke database
 
 ### Route
